@@ -22,13 +22,3 @@ int main (int argc, char** argv)
  
   return (0);
 }
-
-
-// to test git ,add this text
-// and this 
-// also this
-// yeah ~
-
-// second time to add some note
-
-// third time
