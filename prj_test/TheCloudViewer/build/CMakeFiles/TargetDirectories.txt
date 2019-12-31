@@ -1,0 +1,3 @@
+/home/csy/prj_test/TheCloudViewer/build/CMakeFiles/rebuild_cache.dir
+/home/csy/prj_test/TheCloudViewer/build/CMakeFiles/edit_cache.dir
+/home/csy/prj_test/TheCloudViewer/build/CMakeFiles/cloud_viewer.dir

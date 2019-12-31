@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/csy/anaconda3/bin/python",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

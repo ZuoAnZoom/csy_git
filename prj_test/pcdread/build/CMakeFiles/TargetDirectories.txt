@@ -1,0 +1,3 @@
+/home/csy/prj_test/pcdread/build/CMakeFiles/edit_cache.dir
+/home/csy/prj_test/pcdread/build/CMakeFiles/rebuild_cache.dir
+/home/csy/prj_test/pcdread/build/CMakeFiles/pcd_read.dir
