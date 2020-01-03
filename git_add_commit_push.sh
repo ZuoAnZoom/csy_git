@@ -49,7 +49,7 @@ case $ANS2 in
     ;;
 esac
 
-# step 4
+# step 5
 echo -e "\033[33m#----------------git status----------------\033[0m"
 git status
 echo -e "\n"
