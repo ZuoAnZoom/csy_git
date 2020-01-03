@@ -3,9 +3,11 @@
 
 cd
 
-cp .vimrc ~/csy_git/file_backup/
+cp ~/.vimrc ~/csy_git/file_backup/
 
-cp .bashrc ~/csy_git/file_backup/
+cp ~/.bashrc ~/csy_git/file_backup/
+
+cp ~/.tmux.conf ~/csy_git/file_backup/
 
 cp /etc/apt/sources.list ~/csy_git/file_backup/
 
