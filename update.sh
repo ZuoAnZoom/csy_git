@@ -1,9 +1,9 @@
 #!/bin/bash
 # a bash script for update
 
-echo "————————————————————————————————————————————————————————————————————"
+echo "#-----------------------------"
 
-echo "Begin update & upgrade......"
+echo "# Begin update & upgrade......"
 
 sudo apt-get update
 
