@@ -34,16 +34,16 @@ int main ()
     pcl::io::loadPCDFile ("/home/csy/pcd/1575248341.193631000.pcd", *cloud);
 
     pcl::visualization::CloudViewer viewer("Cloud Viewer");
-    
+
     //blocks until the cloud is actually rendered
     viewer.showCloud(cloud);
-    
+
     //use the following functions to get access to the underlying more advanced/powerful
     //PCLVisualizer
-    
+
     //This will only get called once
     viewer.runOnVisualizationThreadOnce (viewerOneOff);
-    
+
     //This will get called once per visualization iteration
     viewer.runOnVisualizationThread (viewerPsycho);
     while (!viewer.wasStopped ())
