@@ -10,7 +10,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.5.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.5.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.5.1/CMakeSystem.cmake"
-  "/home/csy/qt_visualizer/src/CMakeLists.txt"
+  "/home/csy/csy_git/prj_qt/qt_visualizer/src/CMakeLists.txt"
   "/usr/lib/cmake/vtk-6.2/Modules/vtkChartsCore.cmake"
   "/usr/lib/cmake/vtk-6.2/Modules/vtkCommonColor.cmake"
   "/usr/lib/cmake/vtk-6.2/Modules/vtkCommonComputationalGeometry.cmake"

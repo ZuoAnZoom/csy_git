@@ -10,4 +10,4 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-exit
+exit 0

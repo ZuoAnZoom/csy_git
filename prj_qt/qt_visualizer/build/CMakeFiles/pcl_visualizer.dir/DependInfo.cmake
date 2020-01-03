@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/csy/qt_visualizer/src/main.cpp" "/home/csy/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/main.cpp.o"
-  "/home/csy/qt_visualizer/build/pcl_visualizer_automoc.cpp" "/home/csy/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/pcl_visualizer_automoc.cpp.o"
-  "/home/csy/qt_visualizer/src/pclviewer.cpp" "/home/csy/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/pclviewer.cpp.o"
+  "/home/csy/csy_git/prj_qt/qt_visualizer/src/main.cpp" "/home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/main.cpp.o"
+  "/home/csy/csy_git/prj_qt/qt_visualizer/build/pcl_visualizer_automoc.cpp" "/home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/pcl_visualizer_automoc.cpp.o"
+  "/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.cpp" "/home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles/pcl_visualizer.dir/pclviewer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -37,7 +37,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
-  "/home/csy/qt_visualizer/src"
+  "/home/csy/csy_git/prj_qt/qt_visualizer/src"
   "/usr/include/vtk-6.2"
   "/usr/include/jsoncpp"
   "/usr/include/libxml2"

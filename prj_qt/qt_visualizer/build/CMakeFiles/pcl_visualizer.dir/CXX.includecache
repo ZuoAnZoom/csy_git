@@ -6,33 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/home/csy/qt_visualizer/build/moc_pclviewer.cpp
+/home/csy/csy_git/prj_qt/qt_visualizer/build/moc_pclviewer.cpp
 ../src/pclviewer.h
-/home/csy/qt_visualizer/src/pclviewer.h
+/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/csy/qt_visualizer/build/pcl_visualizer_automoc.cpp
+/home/csy/csy_git/prj_qt/qt_visualizer/build/pcl_visualizer_automoc.cpp
 moc_pclviewer.cpp
-/home/csy/qt_visualizer/build/moc_pclviewer.cpp
+/home/csy/csy_git/prj_qt/qt_visualizer/build/moc_pclviewer.cpp
 
-/home/csy/qt_visualizer/src/main.cpp
+/home/csy/csy_git/prj_qt/qt_visualizer/src/main.cpp
 pclviewer.h
-/home/csy/qt_visualizer/src/pclviewer.h
+/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.h
 QApplication
 -
 QMainWindow
 -
 
-/home/csy/qt_visualizer/src/pclviewer.cpp
+/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.cpp
 pclviewer.h
-/home/csy/qt_visualizer/src/pclviewer.h
+/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.h
 ui_pclviewer.h
-/home/csy/qt_visualizer/src/ui_pclviewer.h
+/home/csy/csy_git/prj_qt/qt_visualizer/src/ui_pclviewer.h
 
-/home/csy/qt_visualizer/src/pclviewer.h
+/home/csy/csy_git/prj_qt/qt_visualizer/src/pclviewer.h
 iostream
 -
 QMainWindow

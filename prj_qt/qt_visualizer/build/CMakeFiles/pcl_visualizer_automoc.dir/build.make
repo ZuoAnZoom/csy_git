@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/csy/qt_visualizer/src
+CMAKE_SOURCE_DIR = /home/csy/csy_git/prj_qt/qt_visualizer/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/csy/qt_visualizer/build
+CMAKE_BINARY_DIR = /home/csy/csy_git/prj_qt/qt_visualizer/build
 
 # Utility rule file for pcl_visualizer_automoc.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/csy/qt_visualizer/build
 include CMakeFiles/pcl_visualizer_automoc.dir/progress.make
 
 CMakeFiles/pcl_visualizer_automoc:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/csy/qt_visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc, uic and rcc for target pcl_visualizer"
-	/usr/bin/cmake -E cmake_autogen /home/csy/qt_visualizer/build/CMakeFiles/pcl_visualizer_automoc.dir/ ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc, uic and rcc for target pcl_visualizer"
+	/usr/bin/cmake -E cmake_autogen /home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles/pcl_visualizer_automoc.dir/ ""
 
 pcl_visualizer_automoc: CMakeFiles/pcl_visualizer_automoc
 pcl_visualizer_automoc: CMakeFiles/pcl_visualizer_automoc.dir/build.make
@@ -72,6 +72,6 @@ CMakeFiles/pcl_visualizer_automoc.dir/clean:
 .PHONY : CMakeFiles/pcl_visualizer_automoc.dir/clean
 
 CMakeFiles/pcl_visualizer_automoc.dir/depend:
-	cd /home/csy/qt_visualizer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/csy/qt_visualizer/src /home/csy/qt_visualizer/src /home/csy/qt_visualizer/build /home/csy/qt_visualizer/build /home/csy/qt_visualizer/build/CMakeFiles/pcl_visualizer_automoc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/csy/csy_git/prj_qt/qt_visualizer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/csy/csy_git/prj_qt/qt_visualizer/src /home/csy/csy_git/prj_qt/qt_visualizer/src /home/csy/csy_git/prj_qt/qt_visualizer/build /home/csy/csy_git/prj_qt/qt_visualizer/build /home/csy/csy_git/prj_qt/qt_visualizer/build/CMakeFiles/pcl_visualizer_automoc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/pcl_visualizer_automoc.dir/depend
 
