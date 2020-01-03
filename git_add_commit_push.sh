@@ -53,6 +53,7 @@ esac
 # step 4
 echo -e "#----------------git status----------------"
 git status
+echo -e "\n"
 
 exit 0
 
