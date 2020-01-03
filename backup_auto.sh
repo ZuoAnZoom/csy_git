@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # to auto backup some files to the folder ~/csy_git/file_backup/
 
 cd
