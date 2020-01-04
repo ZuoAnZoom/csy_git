@@ -16,12 +16,26 @@ sudo apt-get install code
 # vifm + ranger: file manager
 sudo apt-get install vifm
 sudo apt-get install ranger
+# lf: file manager
+cd Downloads
+wget https://github.com/gokcehan/lf/releases/download/r13/lf-linux-amd64.tar.gz
+tar -zxvf lf-linux-amd64.tar.gz
+sudo mv lf /usr/local/bin
+rm lf
+git clone https://github.com/gokcehan/lf.git
+cd lf
+sudo mv lf.1 /usr/share/man/man1/lf.1
+cd ..
+rm -r lf
+cd
+
 
 # meld: file compare
 sudo apt-get install meld
 
 # terminal
 sudo apt-get install tmux
+
 
 
 
