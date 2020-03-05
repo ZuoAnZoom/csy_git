@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/csy/prj_test/TheCloudViewer/cloudviewer.cpp
+/home/csy/csy_git/prj_test/TheCloudViewer/cloudviewer.cpp
 pcl/visualization/cloud_viewer.h
 -
 iostream

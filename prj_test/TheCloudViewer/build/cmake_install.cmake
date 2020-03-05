@@ -1,4 +1,4 @@
-# Install script for directory: /home/csy/prj_test/TheCloudViewer
+# Install script for directory: /home/csy/csy_git/prj_test/TheCloudViewer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/csy/prj_test/TheCloudViewer/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/csy/csy_git/prj_test/TheCloudViewer/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
